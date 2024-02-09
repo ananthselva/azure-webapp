@@ -1,2 +1,1 @@
-# azure-webapp
-Deploy a sample website with connectivity of webapp and deployment slot for version ,for deployment center connect with git 
+Getting Started with Create Azure web App with Azure DevOps pipeline on my website 
